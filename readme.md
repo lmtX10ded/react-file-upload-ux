@@ -73,6 +73,7 @@ Help
 https://medium.com/better-programming/keep-your-users-constantly-occupied-ff8ba0b0e673
 --
 
+in _help folder there is second version of this app with more manageble gui, in that still nowhere it show where uploaded files are going
 --
 
 
